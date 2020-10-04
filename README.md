@@ -1,1 +1,1 @@
-# sequelize-examplo
+# sequelize-example
